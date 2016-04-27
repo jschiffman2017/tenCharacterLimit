@@ -16,4 +16,3 @@ for line in lines:
 		f.write("\n")
 
 f.close()
-exit()
